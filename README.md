@@ -10,5 +10,5 @@ The project uses the standard **Iris dataset** loaded directly via `scikit-learn
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/V4IDIK/MLops-unit1>
-   cd mlops-unit1
+   git clone <https://github.com/V4IDIK/MLOps>
+   cd mlops
